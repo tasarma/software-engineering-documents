@@ -16,7 +16,7 @@ singleton2 = Singleton()
 print(singleton1 is singleton2)  
 
 
-################3##############################
+###############################################
 
 
 # Another example with Metaclass, which  allows you to customize the creation of classes
@@ -61,3 +61,4 @@ if __name__ == "__main__":
         print("Singleton works, both variables contain the same instance.")
     else:
         print("Singleton failed, variables contain different instances.")
+

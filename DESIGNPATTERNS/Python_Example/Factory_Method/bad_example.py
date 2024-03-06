@@ -1,7 +1,5 @@
 # https://realpython.com/factory-method-python/
 
-# In serializer_demo.py
-
 import json
 import xml.etree.ElementTree as et
 
